@@ -6,5 +6,8 @@ To train this model I had used color names along with its code in heaxadecimal a
 
 Also uploaded different images to try on.
 
+
+A quick demo of this is present below
+
 ![Demo of the Model](output_gif.gif)
 
